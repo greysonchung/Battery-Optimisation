@@ -18,10 +18,11 @@ def battery_optimisation(datetime, spot_price, initial_capacity=0, include_reven
     ----------
     Parameters
     ----------
-    datetime: a list of time stamp
-    spot_price: a list of spot price of the corresponding time stamp
-    initial_capacit: the initial capacity of the battery
-    solver: the name of the desire linear programming solver (eg. 'glpk', 'mosek', 'gurobi')
+    datetime        : a list of time stamp
+    spot_price      : a list of spot price of the corresponding time stamp
+    initial_capacit : the initial capacity of the battery
+    include_revenue : a boolean indicates if return results should include revenue calculation
+    solver          : the name of the desire linear programming solver (eg. 'glpk', 'mosek', 'gurobi')
 
     Returns
     ----------
