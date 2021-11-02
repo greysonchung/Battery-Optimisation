@@ -2,6 +2,10 @@
 
 This project aims to develop algorithms using linear programming to optimise the dispatch behaviour of a battery based in Victoria. Maximise revenues by charging when electricity prices are low and discharge when prices are high.
 
+## Project Stages
+- Stage one: Maximise revenue while assume having perfect foresight of future spot prices
+- Stage two: Maximise revenue without having perfect foresight of future spot prices
+
 ## Dependencies
 - Language: Python 3.8.8
 - Python Packages/Libraries: [pandas](https://pandas.pydata.org), [numpy](https://numpy.org), [matplotlib](https://matplotlib.org), [statsmodels](https://www.statsmodels.org/stable/index.html), [pyomo](http://www.pyomo.org), [pyutilib](https://github.com/PyUtilib/pyutilib), [glpk](https://www.gnu.org/software/glpk/), [logging](https://docs.python.org/3/library/logging.html)
