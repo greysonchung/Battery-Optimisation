@@ -14,7 +14,9 @@ This project aims to develop algorithms using linear programming to optimise the
 ## Directory
 - `algorithms`: contains algorithms and notebook for this project
 - `data`: contains data for this project
+- `modelling`: contains model for spot price forecasting
 - `result`: contains simulated dispatch results of the proposed battery
+- `visualization`: contains basic visualization of the spot price
 
 ## Reference 
 - Sandia National Laboratories. (2018). About. Pyomo. http://www.pyomo.org/about
