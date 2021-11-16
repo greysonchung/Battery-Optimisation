@@ -19,10 +19,10 @@ This project aims to develop algorithms using linear programming to optimise the
 - `visualization`: contains basic visualization of the spot price
 
 ## Reference 
-- Sandia National Laboratories. (2018). About. Pyomo. http://www.pyomo.org/about
-- Sandia National Laboratories. (2017). Pyomo Documentation 6.1.2. Pyomo Documentation. https://pyomo.readthedocs.io/en/stable/
-- Sandia National Laboratories. (2016). Pyomo Tutorial. Pyomo Tutorial. https://www.osti.gov/biblio/1376827
-- Brent Austgen - UT Austin INFORMS. (2021). Pyomo Tutorial. YouTube. https://www.youtube.com/watch?v=pxCogCylmKs&t=346s
-- Free Software Foundation, Inc. (2012). GLPK - GNU Project - Free Software Foundation (FSF). GNU. https://www.gnu.org/software/glpk/
-- AEMO. (2021). National Electricity Market (NEM). https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem
-- Brakels, R. (2021). How Does 5-Minute Settlement Help Batteries? Solar Quotes Blog. https://www.solarquotes.com.au/blog/nem-5-minute-settlement/
+- [Sandia National Laboratories. (2018). About. Pyomo.](http://www.pyomo.org/about)
+- [Sandia National Laboratories. (2017). Pyomo Documentation 6.1.2. Pyomo Documentation.](https://pyomo.readthedocs.io/en/stable/)
+- [Sandia National Laboratories. (2016). Pyomo Tutorial. Pyomo Tutorial.](https://www.osti.gov/biblio/1376827)
+- [Brent Austgen - UT Austin INFORMS. (2021). Pyomo Tutorial. YouTube.](https://www.youtube.com/watch?v=pxCogCylmKs&t=346s)
+- [Free Software Foundation, Inc. (2012). GLPK - GNU Project - Free Software Foundation (FSF). GNU.](https://www.gnu.org/software/glpk/)
+- [AEMO. (2021). National Electricity Market (NEM).](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem)
+- [Brakels, R. (2021). How Does 5-Minute Settlement Help Batteries? Solar Quotes Blog.](https://www.solarquotes.com.au/blog/nem-5-minute-settlement/)
