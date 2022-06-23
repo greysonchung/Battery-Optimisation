@@ -7,8 +7,8 @@ This project aims to develop algorithms using linear programming to optimise the
 - Stage two: Maximise revenue without having perfect foresight of future spot prices
 
 ## Dependencies
-- Language: Python 3.8.8
-- Python Packages/Libraries: [pandas](https://pandas.pydata.org), [numpy](https://numpy.org), [matplotlib](https://matplotlib.org), [statsmodels](https://www.statsmodels.org/stable/index.html), [pyomo](http://www.pyomo.org), [pyutilib](https://github.com/PyUtilib/pyutilib), [glpk](https://www.gnu.org/software/glpk/), [logging](https://docs.python.org/3/library/logging.html)
+- <img src="https://iconape.com/wp-content/files/zt/11663/png/python.png" width="15" height="15"/> Language: Python 3.8.8
+- <img src="https://iconape.com/wp-content/files/zt/11663/png/python.png" width="15" height="15"/> Python Packages/Libraries: [pandas](https://pandas.pydata.org), [numpy](https://numpy.org), [matplotlib](https://matplotlib.org), [statsmodels](https://www.statsmodels.org/stable/index.html), [pyomo](http://www.pyomo.org), [pyutilib](https://github.com/PyUtilib/pyutilib), [glpk](https://www.gnu.org/software/glpk/), [logging](https://docs.python.org/3/library/logging.html)
 - To install all the required packages and libraries, please locate the text file `requirements.txt`
 
 ## Directory
