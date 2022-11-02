@@ -2,6 +2,13 @@
 
 This project aims to develop algorithms using linear programming to optimise the dispatch behaviour of a battery based in Victoria. Maximise revenues by charging when electricity prices are low and discharge when prices are high.
 
+## Project Contributor
+- Haonan Zhong (867492)
+- Zhi Hern Tom (1068268)
+- Kaixin Yu (1118795)
+- Lissy Xun (1074284)
+- Jiabao Zhang (1118553)
+
 ## Project Stages
 - Stage one: Maximise revenue while assume having perfect foresight of future spot prices
 - Stage two: Maximise revenue without having perfect foresight of future spot prices
