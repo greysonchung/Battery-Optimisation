@@ -1,8 +1,8 @@
 # Optimise Battery Dispatch Behaviour
 
-This project aims to develop algorithms using linear programming to optimise the dispatch behaviour of a battery based in Victoria. Maximise revenues by charging when electricity prices are low and discharge when prices are high.
+This project aims to develop algorithms using linear programming to optimize the dispatch behavior of a battery located in Victoria. The goal is to maximize revenues by charging the battery when electricity prices are low and discharging it when prices are high.
 
-## Project Contributor
+## Project Contributors
 - Haonan Zhong (867492)
 - Zhi Hern Tom (1068268)
 - Kaixin Yu (1118795)
@@ -10,8 +10,8 @@ This project aims to develop algorithms using linear programming to optimise the
 - Jiabao Zhang (1118553)
 
 ## Project Stages
-- Stage one: Maximise revenue while assume having perfect foresight of future spot prices
-- Stage two: Maximise revenue without having perfect foresight of future spot prices
+- Stage One: Maximize revenue while assuming perfect foresight of future spot prices.
+- Stage Two: Maximize revenue without the benefit of perfect foresight of future spot prices.
 
 ## Dependencies
 - <img src="https://iconape.com/wp-content/files/zt/11663/png/python.png" width="15" height="15"/> Language: Python 3.8.8
